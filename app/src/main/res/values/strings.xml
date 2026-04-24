@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SwipeClean</string>
+    <string name="widget_title">SwipeClean</string>
+    <string name="widget_empty">Нет фото</string>
+    <string name="widget_refresh">↻</string>
+</resources>
